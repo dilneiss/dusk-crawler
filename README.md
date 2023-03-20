@@ -15,7 +15,7 @@ Web Crawler using Laravel Dusk
 
 Dusk Crawler can be installed via composer:
 
-    composer require "katsana/dusk-crawler"
+    composer require "dilneiss/dusk-crawler"
 
 ### Usages
 
